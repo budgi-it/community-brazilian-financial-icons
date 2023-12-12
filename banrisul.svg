@@ -1,0 +1,10 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="30" cy="30" r="30" fill="#F4F4F4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.0023 27.6378L21.9179 35.3042H31.209L28.7768 31.471H24.1057L21.2787 27.6378H17.0023Z" fill="#64BAFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.3826 42.3809L22.0705 35.2791H31.2179L26.3794 42.3809H17.3826Z" fill="#006AC3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.1564 31.5032L29.0779 24.4827L38.0554 24.5143L35.8242 27.7656L31.0697 27.7285L28.8398 31.5032H24.1564Z" fill="#006AC3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.1362 17.0346H33.2132L38.0155 24.4975H29.0874L24.1362 17.0346Z" fill="#64BAFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.077 27.7184L35.7901 35.342H44.9749L39.8381 27.8145L31.077 27.7184Z" fill="#64BAFF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.7924 35.3374L31.1017 42.3914H40.1849L44.9949 35.3374H35.7924Z" fill="#006AC3"/>
+<rect opacity="0.01" x="15" y="15" width="30" height="30" fill="#FF0000"/>
+</svg>
